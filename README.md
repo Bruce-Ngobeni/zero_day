@@ -1,1 +1,1 @@
-A [link](http://example.com Title).
+Logo: ![Alt](/wp.png "Title")
